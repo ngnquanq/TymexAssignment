@@ -1,0 +1,5 @@
+gpt2-finetuned
+logs
+mlruns
+results
+wandb
